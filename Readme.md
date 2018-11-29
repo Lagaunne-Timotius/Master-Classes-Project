@@ -1,7 +1,5 @@
 # Classes Project
 
-One Paragraph of project description goes here
-
 ## Remote Sensing Project - Fall 2018
 Application of Multi-Layer Perceptron with Neural Arithmetic Logic Units (NALU) on Remote Sensing Data 
 -> Specifically on Indian Pines
